@@ -1,6 +1,6 @@
 {
-    "schools": {
-        "bcit": {
+    "bcit": [
+        {
             "businessMedia": [
                 {
                     "subDepartment": "Accounting, Finance, and Insurance", 
@@ -22,5 +22,5 @@
                 }
             ]
         }
-    }
+    ]
 }
